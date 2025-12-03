@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   ## 🌐 Analista em Redes & Segurança da Informação 🛡️
 
   <p>
-    Focado em infraestrutura resiliente, hardening de sistemas e automação de segurança.
+    Foco em infraestrutura, proteção de dados e ambientes Microsoft/Linux.
   </p>
 
   ---
@@ -26,20 +26,21 @@ Here are some ideas to get you started:
   ### 🛠️ Competências Chave
   
   <p>
-  <img src="https://img.shields.io/badge/Infraestrutura-Redes_&_TCP%2FIP-blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/OS-Windows_&_Linux-0078D6?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Security-Hardening_&_Analise-red?style=for-the-badge&logo=kali-linux" />
-  <img src="https://img.shields.io/badge/Automação-Scripting-green?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/Network-TCP%2FIP_&_VLANs-blue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Security-Hardening_&_Riscos-red?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Cloud-Azure_&_M365-0078D6?style=for-the-badge&logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/OS-Windows_&_Linux-333333?style=for-the-badge&logo=linux" />
   </p>
 
 </div>
 
 ### 🚀 Sobre Mim
 
-Formação sólida em **Redes de Computadores**, atuo de forma estratégica em **Segurança da Informação**. Meu foco é garantir a estabilidade operacional enquanto blindo ambientes contra vulnerabilidades.
+Atuo com foco técnico na sustentação e segurança de infraestruturas de TI. Minha base é sólida em **Redes de Computadores**, complementada por práticas de **Hardening** e **Análise de Riscos**.
 
-* **🔭 Infraestrutura:** Diagnóstico avançado, topologias escaláveis e troubleshooting de TCP/IP.
-* **🔒 Security:** Hardening, análise de vulnerabilidades e monitoramento em Windows/Linux.
-* **⚙️ Automação:** Scripting para otimização de processos e mitigação de riscos.
+* **📡 Infraestrutura & Serviços:** Domínio de TCP/IP, configuração de DNS/DHCP, segmentação com VLANs e Subnetting. Diagnóstico preciso de falhas de conectividade.
+* **☁️ Cloud & Microsoft:** Fundamentos de Azure e administração de Microsoft 365.
+* **🔒 Segurança Defensiva:** Hardening em Windows/Linux, Controle de Acesso e Proteção de Dados.
+* **📝 Processos:** Experiência em documentação técnica estruturada para garantir a continuidade do conhecimento.
 
-> "Uma abordagem prática e investigativa para construir ambientes resilientes."
+> "Conectividade estável e ambientes seguros através de boas práticas e diagnósticos assertivos."
