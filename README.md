@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Sobre Mim
 
-Com formação sólida em **Redes de Computadores**, atuo de forma estratégica em **Segurança da Informação**. Meu foco é garantir a estabilidade operacional enquanto blindo ambientes contra vulnerabilidades.
+Formação sólida em **Redes de Computadores**, atuo de forma estratégica em **Segurança da Informação**. Meu foco é garantir a estabilidade operacional enquanto blindo ambientes contra vulnerabilidades.
 
 * **🔭 Infraestrutura:** Diagnóstico avançado, topologias escaláveis e troubleshooting de TCP/IP.
 * **🔒 Security:** Hardening, análise de vulnerabilidades e monitoramento em Windows/Linux.
