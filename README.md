@@ -45,11 +45,12 @@ Here are some ideas to get you started:
 
 Atuo na interseção entre **infraestrutura de redes** e **segurança da informação**, com foco na **implementação**, **monitoramento**, **diagnóstico** e **proteção de ambientes corporativos**. Possuo base sólida em **infra de redes**, **arquitetura**, **conectividade** e **serviços**, aplicando **boas práticas** para garantir **estabilidade**, **desempenho** e **disponibilidade** dos ambientes.
 
-Minha atuação em **Segurança da Informação** abrange tanto cenários **defensivos (SOC/Blue Team)** quanto **ofensivos (Red Team)**, com foco em **monitoramento de eventos**, **detecção de ameaças**, **resposta a incidentes**, **hardening de sistemas Windows e Linux**, **testes de segurança**, **exploração controlada de falhas** e **avaliação da postura de segurança em ambientes corporativos**.
+Minha atuação em **Segurança da Informação** abrange tanto cenários **defensivos (SOC/Blue Team)** quanto **ofensivos (Red Team)**, com foco em **detecção de ameaças**, **resposta a incidentes**, **hardening de sistemas Windows e Linux**, **testes de segurança**, **exploração controlada de falhas** e **avaliação da postura de segurança em ambientes corporativos**.
 
 * **📡 Infraestrutura & Redes:** Arquitetura, análise de tráfego, diagnóstico de conectividade e serviços.
-* **🛡️ Operações de Segurança (SOC):** Monitoramento, detecção de ameaças, resposta a incidentes e proteção de ativos.
+* **🛡️ Operações de Segurança (SOC):** Detecção de ameaças, resposta a incidentes e proteção de ativos.
 * **⚔️ Segurança Ofensiva (Red Team):** Testes de intrusão, simulação de ataques e validação de controles.
 * **🔒 Hardening & Proteção:** Mitigação de riscos, aplicação de políticas e fortalecimento de sistemas e serviços.
 
 > "Segurança construída a partir do entendimento profundo de redes, ataque e defesa."
+
