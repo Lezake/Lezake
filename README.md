@@ -18,18 +18,25 @@ Here are some ideas to get you started:
   ## 🌐 Redes & Segurança da Informação 🛡️
 
   <p>
-    Infraestrutura, Operações de Segurança (SOC) e Segurança Ofensiva (Red Team).
+    Infraestrutura de Redes, Operações de Segurança (SOC) e Segurança Ofensiva (Red Team)
   </p>
 
   ---
 
-  ### 🛠️ Competências Chave
+  ### 🛠️ Competências Técnicas
   
   <p>
-  <img src="https://img.shields.io/badge/Network-TCP%2FIP_&_VLANs-blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/Sec_Ops-Monitoramento_&_SOC-0078D6?style=for-the-badge&logo=wireshark" />
-  <img src="https://img.shields.io/badge/Offensive-Red_Team_&_AD-red?style=for-the-badge&logo=hack-the-box&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Hardening_&_Riscos-333333?style=for-the-badge&logo=linux" />
+  <!-- REDES -->
+  <img src="https://img.shields.io/badge/Redes-TCP%2FIP_%7C_DNS_%7C_DHCP_%7C_VLANs-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+
+  <!-- SOC / BLUE TEAM -->
+  <img src="https://img.shields.io/badge/SOC-Detecção_%7C_Monitoramento_%7C_IR-1F6FEB?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+  <!-- RED TEAM -->
+  <img src="https://img.shields.io/badge/Red_Team-Testes_%7C_Exploração_%7C_Validação-B22222?style=for-the-badge&logo=hackthebox&logoColor=white" />
+
+  <!-- HARDENING + SISTEMAS -->
+  <img src="https://img.shields.io/badge/Hardening-Windows_%7C_Linux_%7C_Serviços-2E3440?style=for-the-badge&logo=linux&logoColor=white" />
   </p>
 
 </div>
@@ -38,12 +45,11 @@ Here are some ideas to get you started:
 
 Atuo na interseção entre **infraestrutura de redes** e **segurança da informação**, com foco na **configuração**, **monitoramento**, **diagnóstico** e **proteção de ambientes corporativos**. Possuo base sólida em **Redes de Computadores**, protocolos **TCP/IP**, **DNS**, **DHCP**, **VLANs**, **roteamento**, **subnetting** e **troubleshooting**, aplicando boas práticas para garantir **estabilidade**, **desempenho** e **disponibilidade** dos serviços.
 
-Minha atuação em **Segurança da Informação** abrange tanto cenários **defensivos (SOC/Blue Team)** quanto **ofensivos (Red Team)**, com foco em **monitoramento de eventos**, **detecção de ameaças**, **resposta a incidentes**, **hardening de sistemas Windows e Linux**, **testes de segurança**, **exploração controlada de falhas** e **avaliação da postura de segurança dos ambientes**, incluindo **Active Directory**.
+Minha atuação em **Segurança da Informação** abrange tanto cenários **defensivos (SOC/Blue Team)** quanto **ofensivos (Red Team)**, com foco em **monitoramento de eventos**, **detecção de ameaças**, **resposta a incidentes**, **hardening de sistemas Windows e Linux**, **testes de segurança**, **exploração controlada de falhas** e **avaliação da postura de segurança em ambientes corporativos**.
 
-* **📡 Infraestrutura & Redes:** Arquitetura de redes, análise de tráfego, diagnóstico de conectividade e serviços.
+* **📡 Infraestrutura & Redes:** Arquitetura, análise de tráfego, diagnóstico de conectividade e serviços.
 * **🛡️ Operações de Segurança (SOC):** Monitoramento, detecção de ameaças, resposta a incidentes e proteção de ativos.
 * **⚔️ Segurança Ofensiva (Red Team):** Testes de intrusão, simulação de ataques e validação de controles.
-* **🔒 Hardening & Proteção:** Mitigação de riscos, aplicação de controles e fortalecimento de sistemas e serviços.
+* **🔒 Hardening & Proteção:** Mitigação de riscos, aplicação de políticas e fortalecimento de sistemas e serviços.
 
 > "Segurança construída a partir do entendimento profundo de redes, ataque e defesa."
-
