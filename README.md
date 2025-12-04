@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
   <p>
   <!-- REDES -->
-  <img src="https://img.shields.io/badge/Redes-TCP%2FIP_%7C_DNS_%7C_DHCP_%7C_VLANs-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infra_de_Redes-Arquitetura_%7C_Conectividade_%7C_Serviços-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
 
   <!-- SOC / BLUE TEAM -->
   <img src="https://img.shields.io/badge/SOC-Detecção_%7C_Monitoramento_%7C_IR-1F6FEB?style=for-the-badge&logo=wireshark&logoColor=white" />
