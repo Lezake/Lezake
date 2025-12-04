@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  ## 🌐 Analista em Redes & Segurança da Informação 🛡️
+  ## 🌐 Analista de Redes & Segurança da Informação 🛡️
 
   <p>
-    Foco em infraestrutura, proteção de dados e ambientes Microsoft/Linux.
+    Foco em infraestrutura resiliente, operações de segurança (SOC) e Red Teaming.
   </p>
 
   ---
@@ -27,20 +27,20 @@ Here are some ideas to get you started:
   
   <p>
   <img src="https://img.shields.io/badge/Network-TCP%2FIP_&_VLANs-blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/Security-Hardening_&_Riscos-red?style=for-the-badge&logo=kali-linux" />
-  <img src="https://img.shields.io/badge/Cloud-Azure_&_M365-0078D6?style=for-the-badge&logo=microsoft-azure" />
-  <img src="https://img.shields.io/badge/OS-Windows_&_Linux-333333?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Sec_Ops-SOC_&_Blue_Team-0078D6?style=for-the-badge&logo=wireshark" />
+  <img src="https://img.shields.io/badge/Offensive-Red_Team_&_AD-red?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+  <img src="https://img.shields.io/badge/Academic-Harvard_CS50-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white" />
   </p>
 
 </div>
 
 ### 🚀 Sobre Mim
 
-Atuo com foco técnico na sustentação e segurança de infraestruturas de TI. Minha base é sólida em **Redes de Computadores**, complementada por práticas de **Hardening** e **Análise de Riscos**.
+Atuo na interseção entre infraestrutura e segurança cibernética. Minha base sólida em **Redes de Computadores** é potencializada por certificações em **Segurança Ofensiva (Red Team)** e **Defesa (Blue Team)**, permitindo uma visão completa de como proteger e monitorar ambientes críticos.
 
-* **📡 Infraestrutura & Serviços:** Domínio de TCP/IP, configuração de DNS/DHCP, segmentação com VLANs e Subnetting. Diagnóstico preciso de falhas de conectividade.
-* **☁️ Cloud & Microsoft:** Fundamentos de Azure e administração de Microsoft 365.
-* **🔒 Segurança Defensiva:** Hardening em Windows/Linux, Controle de Acesso e Proteção de Dados.
-* **📝 Processos:** Experiência em documentação técnica estruturada para garantir a continuidade do conhecimento.
+* **📡 Infraestrutura & Redes:** Domínio de TCP/IP, configuração de DNS/DHCP, segmentação com VLANs e Subnetting. Diagnóstico preciso de falhas de conectividade.
+* **🛡️ Operações de Segurança (SOC):** Monitoramento de tráfego, análise de pacotes e resposta a incidentes (Cisco CyberOps).
+* **⚔️ Segurança Ofensiva:** Análise de vulnerabilidades e segurança em Active Directory (Certificação CRTA).
+* **🔒 Hardening & Proteção:** Blindagem de sistemas Windows/Linux, Controle de Acesso e mitigação de riscos.
 
-> "Conectividade estável e ambientes seguros através de boas práticas e diagnósticos assertivos."
+> "Segurança construída através do entendimento profundo de redes, ataque e defesa."
