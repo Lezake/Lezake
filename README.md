@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <p>
   <img src="https://img.shields.io/badge/Network-TCP%2FIP_&_VLANs-blue?style=for-the-badge&logo=cisco" />
   <img src="https://img.shields.io/badge/Sec_Ops-Monitoramento_&_SOC-0078D6?style=for-the-badge&logo=wireshark" />
-  <img src="https://img.shields.io/badge/Offensive-Pentest_&_AD-red?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offensive-Red_Team_&_AD-red?style=for-the-badge&logo=hack-the-box&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Hardening_&_Riscos-333333?style=for-the-badge&logo=linux" />
   </p>
 
@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 Atuo na interseção entre infraestrutura e segurança cibernética. Minha base sólida em **Redes de Computadores** é potencializada por conhecimentos avançados em **Segurança Ofensiva** e **Defensiva**, permitindo uma visão completa de como proteger, monitorar e testar a segurança de ambientes críticos.
 
-* **📡 Infraestrutura & Redes:** Domínio de TCP/IP, configuração de DNS/DHCP, segmentação com VLANs e Subnetting. Diagnóstico preciso de falhas de conectividade.
-* **🛡️ Operações de Segurança (SOC):** Monitoramento de tráfego, análise de pacotes, detecção de intrusões e resposta a incidentes.
-* **⚔️ Segurança Ofensiva:** Análise de vulnerabilidades, exploração de falhas, escalação de privilégios e segurança em Active Directory.
-* **🔒 Hardening & Proteção:** Blindagem de sistemas Windows/Linux, Controle de Acesso e estratégias de mitigação de riscos.
+* **📡 Infraestrutura & Redes:** Domínio de protocolos de comunicação, arquitetura de redes escaláveis e diagnóstico avançado de conectividade e serviços.
+* **🛡️ Operações de Segurança (SOC):** Monitoramento contínuo e gestão completa de incidentes, aplicando técnicas de defesa em profundidade e análise forense.
+* **⚔️ Segurança Ofensiva:** Aplicação de metodologias de Red Teaming e simulação de adversários para auditoria e blindagem de ambientes corporativos e Active Directory.
+* **🔒 Hardening & Proteção:** Estratégias de mitigação de riscos e implementação de controles de segurança em sistemas operacionais e infraestruturas críticas.
 
 > "Segurança construída através do entendimento profundo de redes, ataque e defesa."
